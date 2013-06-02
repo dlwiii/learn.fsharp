@@ -8,3 +8,4 @@ let main (args : string[]) =
   let greeting, thing = args.[0], args.[1] 
   printfn "Hello %s %s"  greeting thing
   0 // return an integer exit code
+
