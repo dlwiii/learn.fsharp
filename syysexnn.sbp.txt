@@ -1,0 +1,28 @@
+﻿foo foo foo
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   application/App.config
+#	new file:   application/Form1.Designer.cs
+#	new file:   application/Form1.cs
+#	new file:   application/Program.cs
+#	new file:   application/Properties/AssemblyInfo.cs
+#	new file:   application/Properties/Resources.Designer.cs
+#	new file:   application/Properties/Resources.resx
+#	new file:   application/Properties/Settings.Designer.cs
+#	new file:   application/Properties/Settings.settings
+#	new file:   application/application.csproj
+#	new file:   fsapp/App.config
+#	new file:   fsapp/Program.fs
+#	new file:   fsapp/fsapp.fsproj
+#	new file:   gz3bphwm.yvo.txt
+#	modified:   learn.fsharp.sln
+#	modified:   learn.fsharp/learn.fsharp.fsproj
+#	modified:   learn.fsharp/learning.fs
+#	modified:   learn.fsharp/tests.fs
+#	new file:   readme.md
+#
+
