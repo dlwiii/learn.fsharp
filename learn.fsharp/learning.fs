@@ -7,5 +7,6 @@ let main (args : string[]) =
     failwith "error: expected two argumets"
   let greeting, thing = args.[0], args.[1] 
   printfn "Hello %s %s"  greeting thing
+  foo.conn
   0 // return an integer exit code
 
